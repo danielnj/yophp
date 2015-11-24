@@ -5,7 +5,7 @@
 	function getPrinters(){
 		return 'chenxiang';
 	}
-
+//test
 	try {
 
 		$cache=new Cache();
